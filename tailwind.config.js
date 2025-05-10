@@ -11,7 +11,7 @@ export default {
           950: '#BF0909',
         },
         yellow: {
-          400: '#FBD74A',
+          400: '#ced905',
         }
       },
       fontFamily: {
